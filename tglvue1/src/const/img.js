@@ -1,0 +1,1 @@
+export  const domain = 'http://p94f3cj0e.bkt.clouddn.com/'
